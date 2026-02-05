@@ -2,9 +2,11 @@
 
 ## Versiones compatibles
 
-Solo hay soporte para la última versión estable por problemas de seguridad. Consulta la página de [Releases](https://github.com/xDino99/ArgenDino-Project/releases)
+Solo se ofrece soporte para la última versión Release por motivos de seguridad. Puedes consultarla en la página de Releases.
+
+Ten en cuenta que las versiones Debug están en fase de pruebas y no se consideran estables; pueden contener errores críticos a diferencia de la versión Release.
 
 ## Reportar una vulnerabilidad
-Te pedimos que reportes las vulnerabilidades de forma privada, contactandome , para darme tiempo a solucionarlas. Puedes hacerlo enviando un correo electrónico a esta direccion:
+Te pido que reportes las vulnerabilidades de forma privada, contactándome directamente para darme tiempo a solucionarlas. Puedes hacerlo enviando un correo electrónico a esta dirección:
 
 (proximamente un correo)
