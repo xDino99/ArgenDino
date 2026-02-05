@@ -1,0 +1,27 @@
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x40004
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "FileDescription", "MGSystem"
+		VALUE "InternalName", "argendino.exe"
+		VALUE "OriginalFilename", "ArgenDino.exe"
+		VALUE "CompanyName", ""
+		VALUE "LegalCopyright", "https://linktr.ee/xDino99"
+		VALUE "ProductName", "ArgenDino"
+		VALUE "FileVersion", "1.0.0.0"
+		VALUE "ProductVersion", "1.0.0.0"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0 0
+}
+}

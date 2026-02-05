@@ -1,0 +1,6 @@
+Sistema Operativos soportados x86 y x64 dependiendo de la version descargada.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Windows 11 : 100%		Funciona perfecto, incluyendo el nuevo Terminal de Windows.
+Windows 10 : 100%		Es el sistema base para el que está diseñado.
+-------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+*.exe
+*.msi
+*.dll
+*.pdb
+/ArgenDino/ArgenDino/
+/ArgenDino/Release/
+/ArgenDino/Debug/
+/ArgenDino/x64/
+/ArgenDino/.vs/
